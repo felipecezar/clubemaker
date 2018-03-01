@@ -12,3 +12,9 @@
 | 11/04 | |
 | 18/04 | |
 | 25/04 | |
+
+
+# Eperimentos
+
+- [Saida digital](https://github.com/felipecezar/clubemaker/tree/master/experimentos/01_SaidaDigital)
+- [Entrada digital](https://github.com/felipecezar/clubemaker/tree/master/experimentos/02_EntradaDigital)
